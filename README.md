@@ -24,6 +24,10 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo"  />
 </div>
 
 ### 
