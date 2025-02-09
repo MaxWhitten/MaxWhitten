@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://eclypse.me/media/svg/eclypse_banner(no_moon).png"  />
+  <img height="200" src="https://eclypse.me/media/svg/github_banner.png"  />
 </div>
 
 ###
