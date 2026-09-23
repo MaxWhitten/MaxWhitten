@@ -40,7 +40,9 @@
 
 ###
 
-<p align="left">Hi! I'm Max. I'm a full stack web dev. I go by ECLYPSE (yes, it has to be capitalized) and  I love making things.<br>I don't have too many public repos as most of my projects are personal/require security.<br><br>Currently, I'm making NEBULA (also has to be capitalized) which is an ecosystem for all of my devices. It lets me see things like notifications, battery level, and analytics. It attaches to all of my devices (phone, watch, laptop, server, etc..) and reports to my server.<br><br>Offline, I enjoy playing guitar, listening to music, and cosplaying as a sysadmin.</p>
+<p align="left">wsg</p>
+<p align="left">i like coding and stuff</p>
+<p align="left">cars too ig</p>
 
 ###
 
