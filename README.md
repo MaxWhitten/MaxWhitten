@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="36" alt="illustrator logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="ubuntu logo"  />
