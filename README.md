@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://eclypse.me/media/svg/github_banner.png"  />
+  <img height="200" src="https://github.com/MaxWhitten/MaxWhitten/blob/main/github_banner.png?raw=true"  />
 </div>
 
 ###
